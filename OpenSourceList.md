@@ -8,6 +8,10 @@ Edit by lqtmcstudio(QZMusic Official)
 - [ComposeMeshGradient](https://github.com/om252345/composemeshgradient) - om252345
 - [Accompanist(lyrics-ui)](https://github.com/6xingyv/accompanist-lyrics-ui/) - 6xingyv
 - [Accompanist(lyrics-core)](https://github.com/6xingyv/accompanist-lyrics-core/) - 6xingyv
+- [Jetpack Compose](https://github.com/androidx/androidx/tree/androidx-main/compose) - Androidx
+- [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) — Kotlin
+- [Koin](https://github.com/InsertKoinIO/koin) — InsertKoinIO
+- [Coil](https://github.com/coil-kt/coil) — Coil-Kt
 - [Javet](https://github.com/caoccao/Javet) - caoccao
 - [Media3](https://github.com/androidx/media) - Androidx
 - [jsoup](https://github.com/jhy/jsoup) - jhy
