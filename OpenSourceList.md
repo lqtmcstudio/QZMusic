@@ -1,12 +1,12 @@
 # Open Source List of QZMusic(v2) Android
 ## QZMusic is powered by this open-source software/library.
-2026.3.22
+2026.6.22
 Edit by lqtmcstudio(QZMusic Official)
 
 - [AndroidX](https://github.com/androidx/androidx) - Androidx
 - [MMKV](https://github.com/Tencent/MMKV) - Tencent
-- [ComposeMeshGradient](https://github.com/om252345/composemeshgradient) - om252345
-- [Accompanist(lyrics-ui)](https://github.com/6xingyv/accompanist-lyrics-ui/) - 6xingyv
+- [ComposeMeshGradient](https://github.com/om252345/composemeshgradient) - om252345 (Modified)
+- [Accompanist(lyrics-ui)](https://github.com/6xingyv/accompanist-lyrics-ui/) - 6xingyv (Modified)
 - [Accompanist(lyrics-core)](https://github.com/6xingyv/accompanist-lyrics-core/) - 6xingyv
 - [Jetpack Compose](https://github.com/androidx/androidx/tree/androidx-main/compose) - Androidx
 - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) — Kotlin
